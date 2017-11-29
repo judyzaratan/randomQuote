@@ -1,0 +1,54 @@
+  body {
+  }
+
+  html, body {
+    background: url("../img/road-sun-rays-path.jpg") no-repeat center;
+    font-family: 'Raleway', Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .content {
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .text {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    opacity: 1;
+  }
+
+  .quote {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    font-size: 150%;
+  }
+
+  .author {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .buttons {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .btn {
+    padding: 10px;
+  }
